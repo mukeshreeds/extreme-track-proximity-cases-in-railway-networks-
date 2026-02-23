@@ -1,5 +1,5 @@
 """
-Next-Gen Road Safety - Object Detection Application
+Extreme Track Proximity Cases In Railway Networks Application
 A Flask-based web application for real-time object detection using YOLO
 """
 from flask import Flask, render_template, Response, request, redirect, url_for, flash, jsonify
