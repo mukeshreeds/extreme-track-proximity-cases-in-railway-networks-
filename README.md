@@ -1,9 +1,8 @@
-# Next-Gen Road Safety
+# Extreme-Track-Proximity-Cases-In-Railway- Networks
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-A multi-threaded Flask application providing real-time object detection using YOLO technology for road safety monitoring and analysis.
-
+A multi-threaded Flask application providing real-time object detection using YOLO technology for railway safety monitoring and analysis.
 ## Features
 
 - **Real-time Object Detection**: Uses YOLO (You Only Look Once) to detect objects at 30 FPS
@@ -40,8 +39,7 @@ The application is built with a focus on performance and reliability:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/next-gen-road-safety.git
-cd next-gen-road-safety
+git clone https://github.com/yourusername/extreme-track-proximity-cases-in-railway-networks.git
 ```
 
 2. Create a virtual environment:
@@ -85,7 +83,7 @@ python main.py
 ## Data Storage
 
 Detection data includes:
-- Object class (person, car, bicycle, etc.)
+- Object class (person, animal, obstacle, object near railway track, etc.)
 - Confidence score
 - Timestamp
 - User ID (for association with the authenticated user)
